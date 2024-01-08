@@ -10,7 +10,7 @@ redirect_from:
 
 Yingrui Ji is studying as a Ph.D student at Aerospace Information Research Institute, Chinese Academy of Sciences in 2022. Her main research interests are in optimizing computer vision model training/inference, high-performance computing, high-performance deep learning systems, and enhancement for classifying low-quality image samples.
 
-For additional details, see her [Full CV](./files/CV_Yingrui_Ji.pdf).
+For additional details, see her [Full CV](../files/CV_Yingrui_Ji.pdf).
 
 <!-- <br> -->
 
@@ -64,11 +64,11 @@ For additional details, see her [Full CV](./files/CV_Yingrui_Ji.pdf).
 
 **<u>PUBLICATIONS</u>**
 
-- **Yingrui Ji**, Yao Zhu, Zhigang Li, Jiansheng Chen, Yunlong Kong, Jingbo Chen. 2023. *Advancing Out-of-Distribution Detection through Data Purification and Dynamic Activation Function Design*. IEEE Transactions on Circuits and Systems for Video Technology(*IEEE TCSVT*)[J]. (Under Review) [PDF](./files/OOD.pdf)
-- Zijie Ding, **Yingrui Ji**, Yan Gan, Yuwen Wang, Yukun Xia. 2023. *Current Status and Development Trends of Technology, Methods, and Application Fields of Human-computer Intelligent Interaction: Bibliometric Research*[J]. (available accept) [PDF](./files/Bib.pdf)
-- Yukun Xia, **Yingrui Ji**, Yan Gan, Zijie Ding. 2023. *Applying Ming furniture features to modern furniture design using deep learning*. Artificial Intelligence, Social Computing and Wearable Technologies. [PDF](./files/Ming.pdf) 
-- Yan Gan，**Yingrui Ji**, Shuo Jiang, Xinxiong Liu, Zhipeng Feng, Yao Li, Yuan Liu. 2021. *Integrating aesthetic and emotional preferences in social robot design: An affective design approach with Kansei engineering and a deep convolutional generative adversarial network*.  International journal of industrial ergonomics[J]. [PDF](./files/Integrating.pdf)
-- Shang H, Duan X, Li F, ……  **Yingrui Ji** et al. 2021. *Many-core acceleration of the first-principles all-electron quantum perturbation calculations*. Computer Physics Communications[J]. [PDF](./files/Many-core.pdf)
+- **Yingrui Ji**, Yao Zhu, Zhigang Li, Jiansheng Chen, Yunlong Kong, Jingbo Chen. 2023. *Advancing Out-of-Distribution Detection through Data Purification and Dynamic Activation Function Design*. IEEE Transactions on Circuits and Systems for Video Technology(*IEEE TCSVT*)[J]. (Under Review) [PDF](../files/OOD.pdf)
+- Zijie Ding, **Yingrui Ji**, Yan Gan, Yuwen Wang, Yukun Xia. 2023. *Current Status and Development Trends of Technology, Methods, and Application Fields of Human-computer Intelligent Interaction: Bibliometric Research*[J]. (available accept) [PDF](../files/Bib.pdf)
+- Yukun Xia, **Yingrui Ji**, Yan Gan, Zijie Ding. 2023. *Applying Ming furniture features to modern furniture design using deep learning*. Artificial Intelligence, Social Computing and Wearable Technologies. [PDF](../files/Ming.pdf) 
+- Yan Gan，**Yingrui Ji**, Shuo Jiang, Xinxiong Liu, Zhipeng Feng, Yao Li, Yuan Liu. 2021. *Integrating aesthetic and emotional preferences in social robot design: An affective design approach with Kansei engineering and a deep convolutional generative adversarial network*.  International journal of industrial ergonomics[J]. [PDF](../files/Integrating.pdf)
+- Shang H, Duan X, Li F, ……  **Yingrui Ji** et al. 2021. *Many-core acceleration of the first-principles all-electron quantum perturbation calculations*. Computer Physics Communications[J]. [PDF](../files/Many-core.pdf)
 <!-- <br> -->
 
 **<u>HONORS AND AWARDS</u>**
